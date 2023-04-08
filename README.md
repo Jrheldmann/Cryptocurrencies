@@ -1,5 +1,5 @@
 # Cryptocurrencies
-Module 18: Unsupervised Machine Learning and Cryptocurrencies
+Unsupervised Machine Learning and Cryptocurrencies
 ## Overview
 The goal of this project was to process, cluster, and reduce the dimensions of Cryptocurrency data, and to reduce the principal components using PCA.
 
